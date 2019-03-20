@@ -1,0 +1,59 @@
+.container-fluid {
+    margin: 0;
+    width: 90%;
+}
+
+#buttons-view {
+    width: 75%;
+   
+}
+
+button,
+    div,
+    form,
+    input {
+        margin: 5px;
+    } 
+
+#heroes-input {
+    width: 100%;
+    padding: 4px;
+    font-size: 16px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#textOnly {
+    color: rgb(243, 247, 241);
+    font-size: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 5px;
+}
+
+body {
+    font-size: 14px;
+    background-image: url("../Images/Marvel.jpg");
+}
+
+.hero-btn,
+#add-hero {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+.superH {
+    float: left;
+    margin: 15px;
+}
+#heroes-view{
+    width: 80%;
+    float:left;
+}
+
+form {
+    float: right;
+    
+}
+
+.form-group {
+    width: 100%;
+}
